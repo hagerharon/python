@@ -31,8 +31,8 @@ ball.shape("square")
 ball.color("white")
 ball.penup()
 ball.goto(0, 0)
-ball.dx = 2.5
-ball.dy = 2.5
+ball.dx = 1.5
+ball.dy = 1.5
 
 #sore
 score1 = 0
